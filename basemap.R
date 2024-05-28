@@ -2,8 +2,6 @@
 library(dplyr)
 library(tidyr)
 library(ggplot2)
-#library(usmap)
-#library(ggthemes)
 library(maps)
 library(mapdata)
 library(viridis)
